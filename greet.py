@@ -1,8 +1,8 @@
 # Import required modules
-import os
+#import os
 
 # Clear the terminal screen
-os.system('clear')  # For Linux/macOS
+#os.system('clear')  # For Linux/macOS
 # os.system('cls')  # For Windows
 
 # Define the ASCII art banner
